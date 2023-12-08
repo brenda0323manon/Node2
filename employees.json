@@ -1,0 +1,64 @@
+{
+    "employees": [
+        {
+            "employeeID": 1,
+            "name": "Brenda",
+            "salary": 50000,
+            "department": "Software Engineer"
+        },
+        {
+            "employeeID": 2,
+            "name": "Benji",
+            "salary": 75000,
+            "department": "General Management"
+        },
+        {
+            "employeeID": 3,
+            "name": "Brynn",
+            "salary": 80000,
+            "department": "Fashion"
+        },
+        {
+            "employeeID": 4,
+            "name": "Oscar",
+            "salary": 80000,
+            "department": "Risk Management"
+        },
+        {
+            "employeeID": 5,
+            "name": "Victor",
+            "salary": 51000,
+            "department": "Cybersecurity"
+        },
+        {
+            "employeeID": 6,
+            "name": "Chasity",
+            "salary": 67000,
+            "department": "Human Resources"
+        },
+        {
+            "employeeID": 7,
+            "name": "Eric",
+            "salary": 55000,
+            "department": "Operation"
+        },
+        {
+            "employeeID": 8,
+            "name": "Chritian",
+            "salary": 60000,
+            "department": "Legal"
+        },
+        {
+            "employeeID": 9,
+            "name": "Clerik",
+            "salary": 100000,
+            "department": "CEO"
+        },
+        {
+            "employeeID": 10,
+            "name": "Reggie",
+            "salary": 90000,
+            "department": "Model"
+        }
+    ]
+}
