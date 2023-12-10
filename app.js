@@ -5,10 +5,10 @@ const port = 2000;
 app.get('/employees', (req, res)=>{
     res.json(employees);
 });
-app.get('/employees/:employeeID', (req, res)=>{  //goes thru the object of employees
+app.get('/employees/:employeeID', (req, res)=>{  //route handler, retrieves the value of the employeeID
     const employeeID = parseInt(req.params.employeeID);
     let employee;
-    for(let i = 0; i < employees.employees.length; i++){
+    for(let i = 0; i < employees.employees.length; i++){ //iterates through the 'employees' object
         if (employees.employees[i].employeeID === employeeID){
             employee = employees.employees[i];
         }
